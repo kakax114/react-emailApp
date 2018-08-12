@@ -1,0 +1,17 @@
+{
+  "name": "email-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "reactstrap": "4.8.0",
+    "react-transition-group": "2.2.1",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "mobx-react": "4.3.5",
+    "mobx": "3.4.1",
+    "jquery": "3.2.1",
+    "font-awesome": "4.7.0"
+  }
+}
